@@ -1,0 +1,9 @@
+{
+	"name": "ybsisgood/bootstrap-switch",
+	"description": "BootstrapSwitch extension for yii 2",
+	"autoload": {
+		"psr-4": {
+			"ybsisgood\\extensions\\BootstrapSwitch\\": ""
+		}
+	}
+}
